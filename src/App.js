@@ -7,6 +7,7 @@ export default class App extends Component {
                 <h1>hello word </h1>
                 <h2>second commit</h2>
                 <h3>third commit</h3>
+            <p> test test</p>
             </div>
         )
     }
